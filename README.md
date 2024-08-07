@@ -14,4 +14,4 @@ _Tue 06 Aug 2024_
 
 _Wed 07 Aug 2024_
 
-> Completedsu STL [check](./DSA/STL)
+> Completed STL [check](./DSA/STL)
