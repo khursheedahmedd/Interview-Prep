@@ -1,4 +1,4 @@
-# Interview Preparation for FAANG
+# Interview Preparation
 
 _Mon 05 Aug 2024_
 
