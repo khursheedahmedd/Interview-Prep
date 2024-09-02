@@ -15,3 +15,7 @@ _Tue 06 Aug 2024_
 _Wed 07 Aug 2024_
 
 > Completed STL [check](./DSA/STL)
+
+_Mon 2 Sep 2024_
+
+> Started Patterns in Python [check](./DSA/patterns/Pattern_01.py)
