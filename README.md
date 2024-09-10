@@ -12,7 +12,7 @@ _Tue 06 Aug 2024_
 
 > Completed Bubble, Selection and Insertion Sort [check](./DSA/arrays/searching-sorting/sorting.cpp)
 
-_Wed 07 Aug 2024_
+_Wed 07 Aug 2024_ 
 
 > Completed STL [check](./DSA/STL)
 
